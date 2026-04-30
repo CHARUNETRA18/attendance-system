@@ -1,4 +1,7 @@
 export default function App() {
-  return <h1>Attendance System</h1>;
-}
+  return (
+    <div>
+      <h1>Attendance System</h1>
+    </div>
+  );
 }
